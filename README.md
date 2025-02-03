@@ -4,7 +4,7 @@ Color Game
 
 LANGUAGE:
 
-React.js and 
+React.js and css
 
 DESCRIPTION:
 
